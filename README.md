@@ -1,2 +1,3 @@
 # tugas-membuat-program-menggunakan-bahasa-c-dan-cpp
-tugas membuat program menggunakan bahasa c dan cpp, untuk memenuhi mata kuliah basic programming
+Tugas membuat program menggunakan bahasa c dan cpp, untuk memenuhi mata kuliah basic programming
+Menggunakan aplikasi Borland C++
